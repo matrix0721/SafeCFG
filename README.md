@@ -1,2 +1,2 @@
 # SafeCFG
-(MM 2025) SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe Generation
+(MM 2025) SafeCFG: Controlling Harmful Features with Dynamic Safe Guidance for Safe Generation
